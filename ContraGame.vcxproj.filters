@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{146b43ce-58cc-4a8a-b264-b41c88fd83de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ContraGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ContraGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ContraGame.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\START.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Blue.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Red.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\..\2.bmp" />
+    <Image Include="..\..\..\3.bmp" />
+    <Image Include="..\..\..\辉夜.bmp" />
+    <Image Include="..\..\..\stop.bmp" />
+    <Image Include="..\..\..\startbutton" />
+    <Image Include="..\..\..\右.bmp" />
+    <Image Include="..\..\..\左.bmp" />
+    <Image Include="..\..\..\startpage.bmp" />
+    <Image Include="res\Grass.bmp" />
+    <Image Include="res\STAGE.bmp" />
+    <Image Include="..\..\..\bitmap4.bmp" />
+    <Image Include="..\..\..\startbutton.bmp" />
+    <Image Include="..\..\..\chose.bmp" />
+    <Image Include="..\..\..\start.bmp" />
+    <Image Include="..\..\..\1.bmp" />
+    <Image Include="..\..\..\4.bmp" />
+    <Image Include="..\..\..\spring.bmp" />
+    <Image Include="..\..\..\summer.bmp" />
+    <Image Include="..\..\..\autumn.bmp" />
+    <Image Include="..\..\..\winter.bmp" />
+    <Image Include="..\..\..\stopbmp.bmp" />
+    <Image Include="..\..\..\walk.bmp" />
+    <Image Include="..\..\..\CONTINUE.bmp" />
+    <Image Include="..\..\..\HELP.bmp" />
+    <Image Include="..\..\..\bitmap5.bmp" />
+    <Image Include="..\..\..\MENU.bmp" />
+    <Image Include="res\RESTART.bmp" />
+    <Image Include="res\2.bmp" />
+    <Image Include="res\3.bmp" />
+    <Image Include="res\右.bmp" />
+    <Image Include="res\左.bmp" />
+    <Image Include="res\startbutton.bmp" />
+    <Image Include="res\chose.bmp" />
+    <Image Include="res\1.bmp" />
+    <Image Include="res\4.bmp" />
+    <Image Include="res\summer.bmp" />
+    <Image Include="res\autumn.bmp" />
+    <Image Include="res\spring.bmp" />
+    <Image Include="res\winter.bmp" />
+    <Image Include="res\stopbmp.bmp" />
+    <Image Include="res\stop.bmp" />
+    <Image Include="res\walk.bmp" />
+    <Image Include="res\CONTINUE.bmp" />
+    <Image Include="res\MENU.bmp" />
+    <Image Include="res\helpbutton.bmp" />
+    <Image Include="res\小蘑菇.bmp" />
+    <Image Include="res\鬼.bmp" />
+    <Image Include="res\小企鹅.bmp" />
+    <Image Include="res\bitmap6.bmp" />
+    <Image Include="res\stage1ground.bmp" />
+    <Image Include="res\stage1ground2.bmp" />
+    <Image Include="res\boom.bmp" />
+    <Image Include="res\血量.bmp" />
+    <Image Include="res\speed.bmp" />
+    <Image Include="res\ground2_1.bmp" />
+    <Image Include="res\victory.bmp" />
+    <Image Include="res\defeat.bmp" />
+    <Image Include="res\tryagain.bmp" />
+    <Image Include="res\star.bmp" />
+    <Image Include="res\money.bmp" />
+    <Image Include="res\mirror.bmp" />
+    <Image Include="res\danger.bmp" />
+    <Image Include="res\police.bmp" />
+    <Image Include="res\girl.bmp" />
+    <Image Include="res\diamond.bmp" />
+    <Image Include="res\next.bmp" />
+    <Image Include="res\ok.bmp" />
+    <Image Include="res\helpstage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="res\music.wav" />
+    <Media Include="res\IMG_0542.wav" />
+  </ItemGroup>
+</Project>
